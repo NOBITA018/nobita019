@@ -5,7 +5,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
 </p>
 
-[<img src="https://telegra.ph/file/450b82d92d6185999018e.jpg"/>](https://github.com/NOBITA018/NOBITA018.git)
+[<img src="https://telegra.ph/file/8c0925cd58eccf0b26ee7.jpg"/>](https://github.com/NOBITA018/NOBITA018.git)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=NOBITA018&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=NOBITA018&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/PRADHAN474)
